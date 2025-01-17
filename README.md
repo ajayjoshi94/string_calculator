@@ -21,4 +21,9 @@ Things you may want to cover:
 
 * Deployment instructions
 
+## How to Run the Test Suite
+To run the test suite and view the results in the terminal, use the following command:
+
+```bash
+bundle exec rspec
 * ...
